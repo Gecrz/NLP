@@ -36,6 +36,13 @@ Next, look at the ngrams and word frequency for each coin.
 1. Use NLTK to produce the ngrams for N = 2.
 2. List the top 10 words for each coin.
 
+Finally, generate word clouds for each coin to summarize the news for each coin.
+
+![btc-word-cloud.png](Images/btc-word-cloud.png)
+
+![eth-word-cloud.png](Images/eth-word-cloud.png)
+
+
 
 
 
