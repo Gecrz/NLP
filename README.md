@@ -23,4 +23,19 @@ Use descriptive statistics to answer the following questions:
 >
 > Which coin had the highest positive score?
 
+#### Natural Language Processing
+
+In this section, you will use NLTK and Python to tokenize the text for each coin. Be sure to:
+
+1. Lowercase each word
+2. Remove punctuation
+3. Remove stop words
+
+Next, look at the ngrams and word frequency for each coin.
+
+1. Use NLTK to produce the ngrams for N = 2.
+2. List the top 10 words for each coin.
+
+
+
 
