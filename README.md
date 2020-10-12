@@ -42,6 +42,15 @@ Finally, generate word clouds for each coin to summarize the news for each coin.
 
 ![eth-word-cloud.png](Images/eth-word-cloud.png)
 
+#### Named Entity Recognition
+
+In this section, we will build a named entity recognition model for both coins and visualize the tags using SpaCy.
+
+![btc-ner.png](Images/btc-ner.png)
+
+![eth-ner.png](Images/eth-ner.png)
+
+
 
 
 
