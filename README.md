@@ -11,4 +11,16 @@ The goal is to Complete the following tasks:
 3. [Named Entity Recognition](#Named-Entity-Recognition)
 
 
+#### Sentiment Analysis
+
+Use the [newsapi](https://newsapi.org/) to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
+
+Use descriptive statistics to answer the following questions:
+
+> Which coin had the highest mean positive score?
+>
+> Which coin had the highest negative score?
+>
+> Which coin had the highest positive score?
+
 
