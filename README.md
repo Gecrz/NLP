@@ -51,6 +51,10 @@ In this section, we will build a named entity recognition model for both coins a
 ![eth-ner.png](Images/eth-ner.png)
 
 
+### Resources
+
+[Vader Sentiment Analysis](http://www.nltk.org/howto/sentiment.html)
+
 
 
 
